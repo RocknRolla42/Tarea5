@@ -1,4 +1,4 @@
-package Tarea5Ander;
+package entidad;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
